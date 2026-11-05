@@ -40,3 +40,12 @@ True o False
 pythonmalo = False
 
 pythonbueno = True
+
+### FUNCION EXTRA
+
+Para saber e imprimir el tipo de dato que es
+un valor se utiliza la funcion type() la cual
+imprime el tipo de dato con el que estamos
+trabajando
+
+
