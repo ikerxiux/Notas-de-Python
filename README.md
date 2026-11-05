@@ -1,6 +1,8 @@
-# Notas-de-Python
-Todos mis apuntes de el plan de 180 dias aprendiendo python
+# Terminos y estudio basico de Python
+Todos mis apuntes sobre Python de el plan de 180 dias aprendiendo python
 y algunos pequeños proyectos del mismo plan
+
+###### OJO esto es Python nivel basico y puede contener errores y falta de informacion
 
 # INTRODUCCION
 
