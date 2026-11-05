@@ -32,4 +32,28 @@ yo merenges
 
 #EJEMPLO B-4
 
-pythonmalo
+pythonmalo = False
+pythonbueno = True
+print(pythonmalo)
+print(pythonbueno)
+"""
+RESULTADO:
+False
+True
+"""
+
+#EJEMPLO B-5
+
+print(type("Soy un dato tipo str"))
+print(type(5))
+print(type(3.6))
+print(type(False))
+print(type(True))
+"""
+RESULTADO:
+<class 'str'>
+<class 'int'>
+<class 'float'>
+<class 'bool'>
+<class 'bool'>
+"""
