@@ -1,6 +1,6 @@
 ###-Tipos de datos-###
 
-# EJEMPLO B-1
+# EJEMPLO C-1
 
 year = 2026
 age = 23
@@ -12,7 +12,7 @@ RESULTADO:
 23
 """
 
-# EJEMPLO B-2
+# EJEMPLO C-2
 
 pi = 3.1416
 print(pi)
@@ -21,7 +21,7 @@ RESULTADO:
 3.1416
 """
 
-#EJEMPLO B-3
+#EJEMPLO C-3
 
 username = "yo merenges"
 print(username)
@@ -30,7 +30,7 @@ RESULTADO:
 yo merenges
 """
 
-#EJEMPLO B-4
+#EJEMPLO C-4
 
 pythonmalo = False
 pythonbueno = True
@@ -42,7 +42,7 @@ False
 True
 """
 
-#EJEMPLO B-5
+#EJEMPLO C-5
 
 print(type("Soy un dato tipo str"))
 print(type(5))
