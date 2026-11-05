@@ -15,7 +15,7 @@ year = 2026
 
 age = 23
 
--[EJEMPLO B-1](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
+-[EJEMPLO C-1](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
 
 ### Float:
 
@@ -24,7 +24,7 @@ numero decimal
 
 pi 0 3.1416
 
--[EJEMPLO B-2](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
+-[EJEMPLO C-2](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
 ### String:
 
 Un string o str se utiliza para almacenar
@@ -33,7 +33,7 @@ dobles o simples
 
 username = "yo merenges"
 
--[EJEMPLO B-3](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
+-[EJEMPLO C-3](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
 ### Boolean:
 
 Un tipo de dato boolean o bool almacena un
@@ -45,7 +45,7 @@ pythonmalo = False
 
 pythonbueno = True
 
--[EJEMPLO B-4](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
+-[EJEMPLO C-4](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
 
 ### FUNCION EXTRA
 
@@ -54,6 +54,6 @@ un valor se utiliza la funcion type() la cual
 imprime el tipo de dato con el que estamos
 trabajando
 
--[EJEMPLO B-5](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
+-[EJEMPLO C-5](https://github.com/ikerxiux/Notas-de-Python/blob/main/Ejemplos/02_Tipos-de-datos.py)
 
 
